@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Vaishnu7798
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi there, I'm Vaishnavi 👋  
+🎓 B.E. in Computer Science & Engineering**  
+💻 Software Testing Enthusiast | Manual & Automation Testing | Selenium | Java**  
+🚀 Looking for Opportunities in Software Testing!**  
+📫 Contact me:** [LinkedIn Profile](https://www.linkedin.com/in/vaishnavi-avchar/)
 
-<!---
-Vaishnu7798/Vaishnu7798 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
